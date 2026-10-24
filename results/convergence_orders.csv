@@ -1,0 +1,13 @@
+kind,case,method,measured_order
+derivative,exp at 1,Forward,1.0005824756482578
+derivative,exp at 1,Central,2.000000226046355
+derivative,sin at 0.7,Forward,1.0006889479374712
+derivative,sin at 0.7,Central,1.999984159433162
+derivative,cubic at 1.3,Forward,1.0004473359378565
+derivative,cubic at 1.3,Central,2.0000143993076422
+integral,quadratic,Left,0.9995770629058758
+integral,quadratic,Trapezoid,1.9999999994016744
+integral,exp,Left,0.9997885996649747
+integral,exp,Trapezoid,1.9999999166340996
+integral,sin,Left,2.0000008060086096
+integral,sin,Trapezoid,2.0000008061719745
