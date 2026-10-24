@@ -1,0 +1,17 @@
+{
+  "code_cells": 14,
+  "figures": ["derivative_errors.png", "richardson_errors.png", "integral_errors.png", "cost_accuracy.png", "motion_application.png", "noise_sensitivity.png", "endpoint_singularity.png"],
+  "tables": {
+    "derivative_errors.csv": {"rows": 600, "numeric": ["step", "absolute_error"]},
+    "richardson_errors.csv": {"rows": 240, "numeric": ["step", "absolute_error"]},
+    "convergence_orders.csv": {"rows": 17, "numeric": ["measured_order"]},
+    "integral_errors.csv": {"rows": 90, "numeric": ["intervals", "sampled_values", "approximation", "absolute_error"]},
+    "cost_accuracy.csv": {"rows": 36, "numeric": ["intervals", "sampled_values", "absolute_error"]},
+    "tolerance_budgets.csv": {"rows": 9, "numeric": ["target", "sampled_values", "absolute_error"]},
+    "motion_application.csv": {"rows": 3, "numeric": ["intervals", "left_distance", "trapezoid_distance", "left_error", "trapezoid_error"]},
+    "noise_experiment.csv": {"rows": 24, "numeric": ["step", "trials", "sigma", "bias", "rmse", "predicted_rmse", "measured_sd", "predicted_sd", "sd_ratio"]},
+    "domain_boundaries.csv": {"rows": 12, "numeric": ["step", "absolute_error"]},
+    "endpoint_singularity.csv": {"rows": 30, "numeric": ["intervals", "absolute_error"]},
+    "endpoint_orders.csv": {"rows": 3, "numeric": ["measured_order"]}
+  }
+}
