@@ -1,23 +1,29 @@
 # Submission checklist
 
-## Completed locally
-- [x] English Jupyter report with mathematics and Python
-- [x] Clear question, practical application, scope, and assumptions
-- [x] Four methods implemented directly
-- [x] Analytical validation and input checks
-- [x] Multiple experiments, figures, CSV results, and convergence estimates
-- [x] Limitations, conclusion, mathematical references, assistance disclosure
-- [x] Fresh-kernel execution of all 11 code cells and passing assertions
-- [x] HTML report, run instructions, and self-assessment draft
+Deadline from the supplied guidelines: **before 16:00 on 3 November 2026**. No extension is stated as available.
 
-## Still required
-- [x] Complete GitHub authentication for mimindss1-bot
-- [x] Create repository and push the initial project: https://github.com/mimindss1-bot/numerical-calculus-project
-- [ ] Enable and confirm examiner access (repository currently private)
-- [ ] Accumulate at least 10 meaningful commits from actual project development
-- [ ] Review all code, mathematics, discussion, and the self-assessment personally
-- [ ] Verify any additional course instructions, AI policy, and assessment form
-- [ ] Run once on the student's own environment
-- [ ] Submit the accessible GitHub repository link before 16:00 on 3 November 2026
+## Implemented and verified
+- [x] English Jupyter report with mathematics and Python.
+- [x] Clear question, physical application, scope, hypotheses, and assumptions.
+- [x] Six numerical methods implemented directly.
+- [x] Independent analytical validation, invalid-input checks, and 34 regression tests.
+- [x] Multiple experiments, seven figures, eleven CSV tables, and convergence estimates.
+- [x] Matched-cost and tolerance analysis, noise model, domain and smoothness limitations.
+- [x] Quantitative findings, conclusion, references, and assistance disclosure.
+- [x] Isolated fresh-kernel execution of all 14 code cells and artifact validation.
+- [x] HTML export, run instructions, environment record, and self-assessment draft.
+- [x] GitHub authentication, repository creation, and source publication.
+- [x] Ten actual development commits; examiner judgment of meaningfulness still applies.
+- [x] Automated checks configured and observed passing on Python 3.12 and 3.14; confirm the final revision in Actions.
+- [x] Owner authorized public visibility after final verification.
 
-Do not treat an upload, local archive, or shared chat as exam submission. Never create empty commits or cosmetic edits just to reach the minimum count. Track genuine reviews, new experiments, corrections, validation, and improvements going forward.
+## Before submission
+- [x] Repository made public and anonymous access verified; final-revision presence is checked after push.
+- [ ] Review and explain all code, mathematics, results, and limitations personally.
+- [ ] Confirm the self-assessment and any required course-specific form.
+- [ ] Check additional course instructions and assistance policy.
+- [ ] Open or run the notebook in the student's Jupyter environment.
+- [ ] Submit https://github.com/mimindss1-bot/numerical-calculus-project through the designated course channel before the deadline.
+- [ ] Save the submission confirmation.
+
+The repository and archive are deliverables, not evidence that the exam has been submitted. No student review, instructor approval, or final submission has been claimed on the student's behalf.
