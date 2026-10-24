@@ -1,0 +1,10 @@
+target,method,sampled_values,absolute_error
+0.001,Left,1024,0.0008388682422837412
+0.001,Trapezoid,16,0.0006363535414044552
+0.001,Midpoint,16,0.0002796364063848422
+1e-05,Left,not reached,not reached
+1e-05,Trapezoid,128,8.877798029161e-06
+1e-05,Midpoint,128,4.369808882520587e-06
+1e-07,Left,not reached,not reached
+1e-07,Trapezoid,2048,3.417255611815051e-08
+1e-07,Midpoint,1024,6.827838339162895e-08

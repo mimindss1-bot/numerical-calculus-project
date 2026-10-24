@@ -16,7 +16,7 @@ def main():
     assert all(cell.execution_count is not None for cell in code_cells)
     assert not any(output.output_type == "error" for cell in code_cells for output in cell.outputs)
     figures = sum("image/png" in output.get("data", {}) for cell in code_cells for output in cell.outputs)
-    assert figures == 5, f"Expected five figures, got {figures}"
+    assert figures == 6, f"Expected six figures, got {figures}"
     nbformat.write(notebook, path)
     html, _ = HTMLExporter().from_notebook_node(notebook)
     (root / "numerical_calculus.html").write_text(html)
