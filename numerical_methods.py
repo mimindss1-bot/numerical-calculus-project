@@ -123,3 +123,15 @@ def richardson_difference(function: Callable, point: float, step: float) -> floa
     coarse = central_difference(function, point, step)
     fine = central_difference(function, point, step / 2)
     return _finite_scalar((4 * fine - coarse) / 3, "derivative estimate")
+
+
+def midpoint(function: Callable, a: float, b: float, intervals: int) -> float:
+    """Second-order composite midpoints using intervals interior samples."""
+    a, b, intervals, h = _grid(a, b, intervals)
+    if a == b:
+        return 0.0
+    nodes = a + (np.arange(intervals) + 0.5) * h
+    _check_nodes(nodes)
+    if np.any(nodes == a) or np.any(nodes == b):
+        raise ValueError("midpoints are not distinguishable from endpoints")
+    return _finite_scalar(h * np.sum(_sample_values(function, nodes)), "integral estimate")

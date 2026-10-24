@@ -10,7 +10,10 @@
 | derivative | sin at 0.7 | Richardson | 3.999 |
 | integral | quadratic | Left | 1.000 |
 | integral | quadratic | Trapezoid | 2.000 |
+| integral | quadratic | Midpoint | 2.000 |
 | integral | exp | Left | 1.000 |
 | integral | exp | Trapezoid | 2.000 |
+| integral | exp | Midpoint | 2.000 |
 | integral | sin | Left | 2.000 |
 | integral | sin | Trapezoid | 2.000 |
+| integral | sin | Midpoint | 2.000 |

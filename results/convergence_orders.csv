@@ -9,7 +9,10 @@ derivative,exp at 1,Richardson,4.000934588132351
 derivative,sin at 0.7,Richardson,3.9990644051650666
 integral,quadratic,Left,0.9995770629058758
 integral,quadratic,Trapezoid,1.9999999994016744
+integral,quadratic,Midpoint,2.000000001196658
 integral,exp,Left,0.9997885996649747
 integral,exp,Trapezoid,1.9999999166340996
+integral,exp,Midpoint,1.9999998574305138
 integral,sin,Left,2.0000008060086096
 integral,sin,Trapezoid,2.0000008061719745
+integral,sin,Midpoint,2.000001409470478
