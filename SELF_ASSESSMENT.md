@@ -13,7 +13,7 @@ This maps the submitted local materials to the supplied criteria. It is not an e
 | Total (provisional) | 100 | Excludes automatic-failure conditions below | 86 |
 
 ## Unmet or unconfirmed minimum conditions
-- GitHub repository publication and repository link: pending.
+- Repository created and initial project pushed: https://github.com/mimindss1-bot/numerical-calculus-project. It is currently private; examiner access remains pending.
 - At least 10 meaningful commits: pending, not satisfied by the existence of these files.
 - Student review and ability to explain the work: pending.
 - Course-specific assistance rules and any separate self-assessment form: unconfirmed.

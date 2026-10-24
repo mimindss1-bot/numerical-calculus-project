@@ -24,6 +24,8 @@ All 11 code cells executed in sequence in a fresh Jupyter kernel on 24 October 2
 The notebook includes linked mathematical references, course attribution, and an explicit Codex assistance disclosure. Review and understand all work before submission and verify any additional course AI policy. Course lecture files are not redistributed in this project.
 
 ## Submission status
-This local report does not mean the exam has been submitted. A GitHub repository and at least 10 meaningful commits are mandatory. GitHub authentication and publication are not complete. See `SUBMISSION_CHECKLIST.md` and `SELF_ASSESSMENT.md`.
+Repository: https://github.com/mimindss1-bot/numerical-calculus-project
+
+GitHub authentication and the initial push are complete. The repository is currently private. Examiner access, at least 10 meaningful development commits, student review, and exam submission are still required. Publication here is not exam submission. See `SUBMISSION_CHECKLIST.md` and `SELF_ASSESSMENT.md`.
 
 Deadline from the supplied guidelines: **before 16:00 on 3 November 2026**. Submit the repository link through the course's designated submission channel.

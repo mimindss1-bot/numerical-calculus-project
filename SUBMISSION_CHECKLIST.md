@@ -11,8 +11,9 @@
 - [x] HTML report, run instructions, and self-assessment draft
 
 ## Still required
-- [ ] Complete GitHub authentication for mimindss1-bot
-- [ ] Create and publish the repository; confirm examiner access
+- [x] Complete GitHub authentication for mimindss1-bot
+- [x] Create repository and push the initial project: https://github.com/mimindss1-bot/numerical-calculus-project
+- [ ] Enable and confirm examiner access (repository currently private)
 - [ ] Accumulate at least 10 meaningful commits from actual project development
 - [ ] Review all code, mathematics, discussion, and the self-assessment personally
 - [ ] Verify any additional course instructions, AI policy, and assessment form
