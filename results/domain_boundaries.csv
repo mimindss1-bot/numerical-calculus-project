@@ -1,0 +1,13 @@
+method,step,status,absolute_error
+Forward,0.02,finite estimate,45.06938556659455
+Central,0.02,rejected invalid sample,not applicable
+Richardson,0.02,rejected invalid sample,not applicable
+Forward,0.005,finite estimate,18.906978378367256
+Central,0.005,finite estimate,9.861228866810904
+Richardson,0.005,finite estimate,0.4002432846726123
+Forward,0.001,finite estimate,4.689820195675239
+Central,0.001,finite estimate,0.3353477310757711
+Richardson,0.001,finite estimate,0.00050450104885158
+Forward,0.0001,finite estimate,0.4966914683212309
+Central,0.0001,finite estimate,0.003333533349447748
+Richardson,0.0001,finite estimate,5.000362079954357e-08
