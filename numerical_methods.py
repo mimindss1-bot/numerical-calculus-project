@@ -112,3 +112,14 @@ def trapezoid(function: Callable, a: float, b: float, intervals: int) -> float:
         h * (0.5 * values[0] + np.sum(values[1:-1]) + 0.5 * values[-1]),
         "integral estimate",
     )
+
+
+def richardson_difference(function: Callable, point: float, step: float) -> float:
+    """Fourth-order extrapolation of central differences; four sampled values.
+
+    Smoothness is required. More sampled values and larger noise weights mean
+    that the higher truncation order does not guarantee lower total error.
+    """
+    coarse = central_difference(function, point, step)
+    fine = central_difference(function, point, step / 2)
+    return _finite_scalar((4 * fine - coarse) / 3, "derivative estimate")

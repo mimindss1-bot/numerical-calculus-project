@@ -5,6 +5,8 @@ derivative,sin at 0.7,Forward,1.0006889479374712
 derivative,sin at 0.7,Central,1.999984159433162
 derivative,cubic at 1.3,Forward,1.0004473359378565
 derivative,cubic at 1.3,Central,2.0000143993076422
+derivative,exp at 1,Richardson,4.000934588132351
+derivative,sin at 0.7,Richardson,3.9990644051650666
 integral,quadratic,Left,0.9995770629058758
 integral,quadratic,Trapezoid,1.9999999994016744
 integral,exp,Left,0.9997885996649747
