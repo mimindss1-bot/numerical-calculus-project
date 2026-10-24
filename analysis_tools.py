@@ -22,3 +22,17 @@ def first_budget_meeting(rows, target):
         raise ValueError("target must be positive and finite")
     eligible = [row for row in rows if row["absolute_error"] <= target]
     return min(eligible, key=lambda row: row["sampled_values"]) if eligible else None
+
+
+def noise_standard_deviation(weights, sigma, step):
+    """Std of sum(weights_i * independent_noise_i) / step.
+
+    weights are dimensionless; independent sample noise has variance sigma**2.
+    This models noise amplification, not truncation bias or reference error.
+    """
+    weights = np.asarray(weights, dtype=float)
+    if weights.ndim != 1 or weights.size == 0 or not np.all(np.isfinite(weights)):
+        raise ValueError("weights must be a nonempty finite vector")
+    if not np.isfinite(sigma) or sigma < 0 or not np.isfinite(step) or step <= 0:
+        raise ValueError("sigma must be nonnegative and step positive, both finite")
+    return float(sigma * np.linalg.norm(weights) / step)
