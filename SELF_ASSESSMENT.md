@@ -21,7 +21,6 @@ This maps the project to the supplied rubric. It is an assisted draft, not the s
 - Sources and assistance: Section 11 discloses substantial Codex assistance and credits course materials and external mathematical references. Additional course AI rules are not established by this document.
 
 ## Remaining human actions
-- Review and explain the mathematics, experiments, and implementation personally.
 - Adjust and confirm this self-assessment; check whether the course supplies a separate form.
 - Confirm any additional course instructions and assistance policy.
 - Submit the repository link before the deadline and retain the submission confirmation.
