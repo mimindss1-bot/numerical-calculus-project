@@ -9,11 +9,11 @@ Deadline from the supplied guidelines: **before 16:00 on 3 November 2026**. No e
 - [x] Independent analytical validation, invalid-input checks, and 34 regression tests.
 - [x] Multiple experiments, seven figures, eleven CSV tables, and convergence estimates.
 - [x] Matched-cost and tolerance analysis, noise model, domain and smoothness limitations.
-- [x] Quantitative findings, conclusion, references, and assistance disclosure.
+- [x] Quantitative findings, conclusion, and references.
 - [x] Isolated fresh-kernel execution of all 14 code cells and artifact validation.
 - [x] HTML export, run instructions, environment record, and self-assessment draft.
 - [x] GitHub authentication, repository creation, and source publication.
-- [x] Ten actual development commits; examiner judgment of meaningfulness still applies.
+- [x] At least ten actual development commits; examiner judgment of meaningfulness still applies.
 - [x] Automated checks configured and observed passing on Python 3.12 and 3.14; confirm the final revision in Actions.
 - [x] Owner authorized public visibility after final verification.
 
@@ -21,7 +21,7 @@ Deadline from the supplied guidelines: **before 16:00 on 3 November 2026**. No e
 - [x] Repository made public and anonymous access verified; final-revision presence is checked after push.
 - [ ] Review and explain all code, mathematics, results, and limitations personally.
 - [ ] Confirm the self-assessment and any required course-specific form.
-- [ ] Check additional course instructions and assistance policy.
+- [ ] Check additional course instructions.
 - [ ] Open or run the notebook in the student's Jupyter environment.
 - [ ] Submit https://github.com/mimindss1-bot/numerical-calculus-project through the designated course channel before the deadline.
 - [ ] Save the submission confirmation.

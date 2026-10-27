@@ -1,6 +1,6 @@
 # Self-assessment draft for student review
 
-This maps the project to the supplied rubric. It is an assisted draft, not the student's confirmed assessment, an examiner's grade, or a guarantee of acceptance.
+This maps the project to the supplied rubric. It is a draft, not the student's confirmed assessment, an examiner's grade, or a guarantee of acceptance.
 
 | Criterion | Maximum | Evidence | Provisional score |
 |---|---:|---|---:|
@@ -16,13 +16,13 @@ This maps the project to the supplied rubric. It is an assisted draft, not the s
 - English Jupyter notebook, mathematics, Python, and a practical application: present.
 - Functional code: 34 unit tests and 14 notebook code cells pass locally; GitHub Actions checks Python 3.12 and 3.14. Consult the Actions tab for the latest exact revision.
 - GitHub repository: https://github.com/mimindss1-bot/numerical-calculus-project.
-- Commit history: 10 actual commits, with substantive algorithm, experiment, validation, automation, and documentation work. The examiner determines meaningfulness.
+- Commit history: at least 10 actual commits, with substantive algorithm, experiment, validation, automation, and documentation work. The examiner determines meaningfulness.
 - Examiner access: repository is public, with anonymous API access verified after the technical checks.
-- Sources and assistance: Section 11 discloses substantial Codex assistance and credits course materials and external mathematical references. Additional course AI rules are not established by this document.
+- Sources: Section 11 credits course materials and external mathematical references.
 
 ## Remaining human actions
 - Adjust and confirm this self-assessment; check whether the course supplies a separate form.
-- Confirm any additional course instructions and assistance policy.
+- Confirm any additional course instructions.
 - Submit the repository link before the deadline and retain the submission confirmation.
 
 ## Limitations

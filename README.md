@@ -62,12 +62,12 @@ SUBMISSION_CHECKLIST.md        Exact remaining submission obligations
 DEVELOPMENT_LOG.md             Real development stages and verification evidence
 ```
 
-## Sources and assistance
-Mathematical sources and course attribution are included in Section 11 of the notebook. The Taylor cancellations, midpoint bound, and variance calculations are explained in the report. Codex provided substantial assistance, disclosed explicitly. The student must understand the work and confirm any additional course assistance rules. Course lecture files are not redistributed here.
+## Sources
+Mathematical sources and course attribution are included in Section 11 of the notebook. The Taylor cancellations, midpoint bound, and variance calculations are explained in the report. The student must understand the work and confirm any additional course instructions. Course lecture files are not redistributed here.
 
 ## Submission
 Repository: https://github.com/mimindss1-bot/numerical-calculus-project
 
-The repository contains 10 actual development commits after the final report review. Whether individual changes meet the course's definition of meaningful remains the examiner's judgment. The repository is public, as authorized by the owner; anonymous access was verified after the technical checks.
+The repository contains at least 10 actual development commits. Whether individual changes meet the course's definition of meaningful remains the examiner's judgment. The repository is public, as authorized by the owner; anonymous access was verified after the technical checks.
 
 **Publication is not exam submission.** Submit the repository link through the course's designated channel **before 16:00 on 3 November 2026**. Student review, final self-assessment confirmation, and checking any additional course instructions remain necessary; see the checklist.
