@@ -62,6 +62,10 @@ SUBMISSION_CHECKLIST.md        Exact remaining submission obligations
 DEVELOPMENT_LOG.md             Real development stages and verification evidence
 ```
 
+## Course exercises
+
+The [упражнения](упражнения/) folder contains the four supplied exercise notebooks and three GeoGebra resources. These study files are separate from the main project and its automated checks. See the folder README for the file list and attribution.
+
 ## Sources
 Mathematical sources and course attribution are included in Section 11 of the notebook. The Taylor cancellations, midpoint bound, and variance calculations are explained in the report. The student must understand the work and confirm any additional course instructions. Course lecture files are not redistributed here.
 
